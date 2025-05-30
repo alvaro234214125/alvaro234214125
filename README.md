@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
-<h3 align="center">💻 Jr. Full Stack Developer | Apasionado por el Backend</h3>
+<h1>¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
+<h3>💻 Jr. Full Stack Developer | Apasionado por el Backend</h3>
 
-<p align="center">
+<p>
   Estudiante de <strong>Ingeniería de Sistemas</strong> con una profunda pasión por la programación y la resolución de problemas. <br>
   Me encanta construir soluciones eficientes, aprender nuevas tecnologías y crear experiencias digitales funcionales.
 </p>
