@@ -1,41 +1,61 @@
-<h1 >Hola! 👋, soy Álvaro Díaz Chang</h1>
-<h3>💻 Jr. Full Stack Developer</h3>
+<h1 align="center">¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
+<h3 align="center">💻 Jr. Full Stack Developer | Apasionado por el Backend</h3>
 
-<p >
-  Soy estudiante de <strong>Ingeniería de Sistemas</strong> con una gran pasión por el mundo de la programación. <br>
-  Me encanta construir soluciones eficientes y aprender constantemente nuevas tecnologías.
+<p align="center">
+  Estudiante de <strong>Ingeniería de Sistemas</strong> con una profunda pasión por la programación y la resolución de problemas. <br>
+  Me encanta construir soluciones eficientes, aprender nuevas tecnologías y crear experiencias digitales funcionales.
 </p>
 
 ---
 
 ### 🧠 Sobre mí
-- 🌱 Actualmente profundizo en tecnologías backend y patrones de diseño.
-- 🔭 Me apasiona el desarrollo **web full stack**, con fuerte interés en **backend y bases de datos**.
-- ⚡ Siempre estoy aprendiendo y construyendo proyectos nuevos.
-- 📬 Puedes escribirme a: **alvarocesardiazchang2@gmail.com**
+
+- 🔍 Apasionado por el desarrollo **web full stack**, con enfoque en **backend** y **bases de datos relacionales**.
+- 🌱 Actualmente profundizo en **Spring Boot**, **Arquitectura de software** y **patrones de diseño**.
+- ⚙️ Experiencia en desarrollo de APIs REST, autenticación con JWT, integración con bases de datos y más.
+- 🚀 Siempre estoy construyendo proyectos personales para aplicar lo aprendido.
+- 📫 Puedes contactarme a: **alvarocesardiazchang2@gmail.com**
 
 ---
 
 ### 🚀 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,python,mysql,react,vscode,github,git,figma,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python,mysql,postgres,spring,react,redux,vite,git,github,vscode,figma,bootstrap,tailwind" />
 </p>
 
 ---
 
-### 📈 Mis estadísticas en GitHub
+### 📌 Proyectos destacados
+
+- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu)** – Ecommerce completo con autenticación JWT, sistema de pagos, carrito, valoraciones, y más.  
+- 🛠️ **[Mini-ERP](#)** – Sistema básico de gestión para inventario y ventas usando Java y Spring Boot *(próximamente)*.
+
+> Explora más proyectos en la sección de repositorios 👇
+
+---
+
+### 📈 Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10" alt="langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro234214125&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro234214125&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
 </p>
+
+---
+
+### 🧩 Intereses actuales
+
+- 🔐 Seguridad en aplicaciones web (JWT, OAuth2, HTTPS)
+- 🧪 Testing con JUnit, Mockito y Cypress
+- 🕸️ Frontend moderno con React + Vite
+- 🧱 Arquitectura limpia y buenas prácticas en Java
 
 ---
 
 ### 🌐 Conecta conmigo
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/alvarodiazchang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
@@ -53,5 +73,5 @@
 ---
 
 <p align="center">
-  Hecho por Álvaro Díaz Chang
+  📌 Hecho con ❤️ por <strong>Álvaro Díaz Chang</strong>
 </p>
