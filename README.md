@@ -21,7 +21,7 @@
 ### 🚀 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python,mysql,postgres,spring,react,redux,vite,git,github,vscode,figma,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python,mysql,postgres,spring,react,astro,redux,vite,git,github,vscode,figma,bootstrap,tailwind" />
 </p>
 
 ---
