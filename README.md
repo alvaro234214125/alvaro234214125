@@ -70,8 +70,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  📌 Hecho con ❤️ por <strong>Álvaro Díaz Chang</strong>
+  📌 Hecho <strong>Álvaro Díaz Chang</strong>
 </p>
