@@ -29,7 +29,7 @@
 ### 📌 Proyectos destacados
 
 - 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu)** – Ecommerce completo con autenticación JWT, sistema de pagos, carrito, valoraciones, y más.  
-- 🛠️ **[Mini-ERP](#)** – Sistema básico de gestión para inventario y ventas usando Java y Spring Boot *(próximamente)*.
+- 🛠️ **[Mini-CRM](#)** – Sistema básico de gestión tipo crm en version básica.
 
 > Explora más proyectos en la sección de repositorios 👇
 
