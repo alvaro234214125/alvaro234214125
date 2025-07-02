@@ -28,8 +28,8 @@
 
 ### 📌 Proyectos destacados
 
-- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu)** – Ecommerce completo con autenticación JWT, sistema de pagos, carrito, valoraciones, y más.  
-- 🛠️ **[Mini-CRM](#)** – Sistema básico de gestión tipo crm en version básica.
+- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu-backend)** – Ecommerce completo con autenticación JWT, sistema de pagos, carrito, valoraciones, y más.  
+- 🛠️ **[CRM](https://github.com/alvaro234214125/crm-backend)** – Sistema de gestión integral para el manejo de clientes y procesos internos.
 
 > Explora más proyectos en la sección de repositorios 👇
 
